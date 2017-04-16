@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=zeezo\sqlexpress;AttachDbFilename=|DataDirectory|\aspnet-DostiCardApi-20170205031945.mdf;Initial Catalog=aspnet-DostiCardApi-20170205031945;Integrated Security=True" />
+  <setParameter name="DostiCardDBEntities-Web.config Connection String" value="metadata=res://*/DostiCardDataModel.csdl|res://*/DostiCardDataModel.ssdl|res://*/DostiCardDataModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=dcdbinstance.civvfgys40mw.us-west-2.rds.amazonaws.com,1433;initial catalog=DostiCardDB;persist security info=True;user id=mashood_murtaza;password=blackberryZ10;MultipleActiveResultSets=True;App=EntityFramework&quot;" />
+</parameters>

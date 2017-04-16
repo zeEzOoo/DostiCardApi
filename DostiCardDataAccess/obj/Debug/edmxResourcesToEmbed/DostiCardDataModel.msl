@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DostiCardDBModelStoreContainer" CdmEntityContainer="DostiCardDBEntities">
+    <EntitySetMapping Name="CustomerTables">
+      <EntityTypeMapping TypeName="DostiCardDBModel.CustomerTable">
+        <MappingFragment StoreEntitySet="CustomerTables">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Fname" ColumnName="Fname" />
+          <ScalarProperty Name="Lname" ColumnName="Lname" />
+          <ScalarProperty Name="ContactNo" ColumnName="ContactNo" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="ProfilePic" ColumnName="ProfilePic" />
+          <ScalarProperty Name="StoreID" ColumnName="StoreID" />
+          <ScalarProperty Name="Points" ColumnName="Points" />
+          <ScalarProperty Name="Load" ColumnName="Load" />
+          <ScalarProperty Name="ReservedAmount" ColumnName="ReservedAmount" />
+          <ScalarProperty Name="Rewards" ColumnName="Rewards" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MerchantTables">
+      <EntityTypeMapping TypeName="DostiCardDBModel.MerchantTable">
+        <MappingFragment StoreEntitySet="MerchantTables">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Fname" ColumnName="Fname" />
+          <ScalarProperty Name="Lname" ColumnName="Lname" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="ContactNo" ColumnName="ContactNo" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="ProfilePic" ColumnName="ProfilePic" />
+          <ScalarProperty Name="StoreID" ColumnName="StoreID" />
+          <ScalarProperty Name="Designation" ColumnName="Designation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StoreTables">
+      <EntityTypeMapping TypeName="DostiCardDBModel.StoreTable">
+        <MappingFragment StoreEntitySet="StoreTables">
+          <ScalarProperty Name="PaymentToGetOnePoint" ColumnName="PaymentToGetOnePoint" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="StoreName" ColumnName="StoreName" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PointsLimit" ColumnName="PointsLimit" />
+          <ScalarProperty Name="PercentageDiscount" ColumnName="PercentageDiscount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="DostiCardDBModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

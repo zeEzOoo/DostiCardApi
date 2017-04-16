@@ -1,0 +1,10 @@
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\bin\Debug\DostiCardDataAccess.dll.config
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\bin\Debug\DostiCardDataAccess.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\bin\Debug\DostiCardDataAccess.pdb
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\bin\Debug\EntityFramework.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\bin\Debug\EntityFramework.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\obj\Debug\DostiCardDataAccess.csprojResolveAssemblyReference.cache
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\obj\Debug\DostiCardDataAccess.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardDataAccess\obj\Debug\DostiCardDataAccess.pdb

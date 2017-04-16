@@ -1,0 +1,184 @@
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\ApplicationInsights.config
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\csc.exe
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\vbc.exe
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\VBCSCompiler.exe
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\DostiCardApi.dll.config
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\DostiCardApi.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\DostiCardApi.pdb
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Antlr3.Runtime.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\DostiCardDataAccess.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\EntityFramework.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\EntityFramework.SqlServer.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.Web.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.WindowsServer.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.ApplicationInsights.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Google.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Newtonsoft.Json.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Owin.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Net.Http.Formatting.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Helpers.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Http.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Http.Owin.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Http.WebHost.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Mvc.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Optimization.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Razor.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.Deployment.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.Razor.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\WebGrease.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\DostiCardDataAccess.pdb
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.Web.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AI.WindowsServer.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.ApplicationInsights.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Newtonsoft.Json.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Net.Http.Formatting.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Helpers.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Http.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Http.WebHost.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Mvc.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Optimization.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Razor.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.Deployment.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.Razor.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Antlr3.Runtime.pdb
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\EntityFramework.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\EntityFramework.SqlServer.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Google.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\bin\System.Web.Http.Owin.xml
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\obj\Release\DostiCardApi.csprojResolveAssemblyReference.cache
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\obj\Release\DostiCardApi.dll
+E:\Study\Dot Net\Workspace\web API\DostiCardApi\DostiCardApi\obj\Release\DostiCardApi.pdb
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\ApplicationInsights.config
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\csc.exe
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\vbc.exe
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\VBCSCompiler.exe
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\DostiCardApi.dll.config
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\DostiCardApi.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\DostiCardApi.pdb
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Antlr3.Runtime.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\DostiCardDataAccess.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\EntityFramework.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\EntityFramework.SqlServer.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.Web.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.WindowsServer.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.ApplicationInsights.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Google.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Newtonsoft.Json.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Owin.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Net.Http.Formatting.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Helpers.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Http.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Http.Owin.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Http.WebHost.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Mvc.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Optimization.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Razor.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.Deployment.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.Razor.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\WebGrease.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\DostiCardDataAccess.pdb
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.Web.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AI.WindowsServer.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.ApplicationInsights.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Newtonsoft.Json.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Net.Http.Formatting.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Helpers.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Http.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Http.WebHost.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Mvc.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Optimization.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Razor.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.Deployment.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.WebPages.Razor.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Antlr3.Runtime.pdb
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\EntityFramework.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\EntityFramework.SqlServer.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Google.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\bin\System.Web.Http.Owin.xml
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\obj\Release\DostiCardApi.csprojResolveAssemblyReference.cache
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\obj\Release\DostiCardApi.dll
+E:\Study\DotNet\Workspace\webAPI\DostiCardApi\DostiCardApi\obj\Release\DostiCardApi.pdb

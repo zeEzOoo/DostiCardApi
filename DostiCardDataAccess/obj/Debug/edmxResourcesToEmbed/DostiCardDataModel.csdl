@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DostiCardDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CustomerTable">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Lname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ContactNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProfilePic" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="StoreID" Type="Int32" Nullable="false" />
+    <Property Name="Points" Type="Int32" Nullable="false" />
+    <Property Name="Load" Type="Int32" Nullable="false" />
+    <Property Name="ReservedAmount" Type="Int32" Nullable="false" />
+    <Property Name="Rewards" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="StoreTable" Relationship="Self.FK_CustomerTbl_StoreID" FromRole="CustomerTables" ToRole="StoreTables" />
+  </EntityType>
+  <EntityType Name="MerchantTable">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Lname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ContactNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProfilePic" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="StoreID" Type="Int32" />
+    <Property Name="Designation" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="StoreTable" Relationship="Self.FK_MerchantTbl_StoreID" FromRole="MerchantTables" ToRole="StoreTables" />
+  </EntityType>
+  <EntityType Name="StoreTable">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StoreName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PointsLimit" Type="Int32" Nullable="false" />
+    <Property Name="PercentageDiscount" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CustomerTables" Relationship="Self.FK_CustomerTbl_StoreID" FromRole="StoreTables" ToRole="CustomerTables" />
+    <NavigationProperty Name="MerchantTables" Relationship="Self.FK_MerchantTbl_StoreID" FromRole="StoreTables" ToRole="MerchantTables" />
+    <Property Name="PaymentToGetOnePoint" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_CustomerTbl_StoreID">
+    <End Role="StoreTables" Type="Self.StoreTable" Multiplicity="1" />
+    <End Role="CustomerTables" Type="Self.CustomerTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StoreTables">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CustomerTables">
+        <PropertyRef Name="StoreID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MerchantTbl_StoreID">
+    <End Role="StoreTables" Type="Self.StoreTable" Multiplicity="0..1" />
+    <End Role="MerchantTables" Type="Self.MerchantTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StoreTables">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="MerchantTables">
+        <PropertyRef Name="StoreID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DostiCardDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CustomerTables" EntityType="Self.CustomerTable" />
+    <EntitySet Name="MerchantTables" EntityType="Self.MerchantTable" />
+    <EntitySet Name="StoreTables" EntityType="Self.StoreTable" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK_CustomerTbl_StoreID" Association="Self.FK_CustomerTbl_StoreID">
+      <End Role="StoreTables" EntitySet="StoreTables" />
+      <End Role="CustomerTables" EntitySet="CustomerTables" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MerchantTbl_StoreID" Association="Self.FK_MerchantTbl_StoreID">
+      <End Role="StoreTables" EntitySet="StoreTables" />
+      <End Role="MerchantTables" EntitySet="MerchantTables" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
